@@ -1,2 +1,2 @@
 # Meta-UDA
-All algorithm files are in the file "code(nojson)". Please decompress before use.
+All algorithm files are in the file "code(nojson).rar". Please decompress before use.
